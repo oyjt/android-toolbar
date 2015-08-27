@@ -8,13 +8,13 @@
     </style>
 
     <!-- toolbar菜单样式 -->
-    <style name="ToolbaTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
         <item name="actionMenuTextColor">@android:color/white</item>
         <item name="actionMenuTextAppearance">@style/ToolbarMenuTextSize</item>
         <item name="selectableItemBackground">@drawable/toolbar_button_bg</item>
     </style>
     <!-- toolbar弹出菜单样式 -->
-    <style name="ToolbaPopupTheme" parent="@style/ThemeOverlay.AppCompat">
+    <style name="ToolbarPopupTheme" parent="@style/ThemeOverlay.AppCompat">
         <item name="android:colorBackground">#212121</item>
     </style>
     <!-- toolbar标题样式 -->
@@ -25,12 +25,4 @@
     <style name="ToolbarMenuTextSize" parent="@style/TextAppearance.AppCompat.Menu">
         <item name="android:textSize">10sp</item>
     </style>
-    <!--<color name="primary">#2196F3</color>
-        <color name="primary_dark">#1976D2</color>
-        <color name="primary_light">#BBDEFB</color>
-        <color name="accent">#448AFF</color>
-        <color name="primary_text">#212121</color>
-        <color name="secondary_text">#727272</color>
-        <color name="icons">#FFFFFF</color>
-        <color name="divider">#B6B6B6</color>-->
 </resources>

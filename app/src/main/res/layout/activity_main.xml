@@ -13,9 +13,9 @@
         android:layout_height="45dp"
         android:background="?attr/colorPrimary"
         android:minHeight="45dp"
-        app:popupTheme="@style/ToolbaPopupTheme"
+        app:popupTheme="@style/ToolbarPopupTheme"
         app:titleTextAppearance="@style/ToolbarTitle"
-        app:theme="@style/ToolbaTheme">
+        app:theme="@style/ToolbarTheme">
 
     </android.support.v7.widget.Toolbar>
 </LinearLayout>
